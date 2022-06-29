@@ -1,0 +1,3 @@
+function stringInt() {
+    console.log()
+}
